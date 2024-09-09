@@ -52,4 +52,4 @@ To simulate real-time traffic conditions, this project can integrate data from O
 
    # Define the location and fetch the road network
    place_name = "Manhattan, New York, USA"
-   G = ox.graph_from_place(place_name, network_type='drive')
+   G = ox.graph_from_place(place_name, network_type='drive') . 
